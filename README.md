@@ -1,7 +1,7 @@
 
 
 <!--
-**ayanchavand/AyanChavand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ananykorane/AnanyKoranne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 Anany here!
 
 
-![ayanchavand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyKoranne&theme=react&show_icons=true&hide_border=true&layout=compact)
+![ananykoranne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyKoranne&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-![ayanchavand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanyKoranne&theme=react&hide_border=true)
+
 
 </div>

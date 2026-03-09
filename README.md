@@ -1,36 +1,139 @@
+<!-- HEADER BANNER — deep visible gradient that still feels native to GitHub dark -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003366,65:0a1628,100:0d1117&height=250&section=header&text=Anany%20Koranne&fontSize=56&fontColor=e6edf3&fontAlignY=42&desc=Full%20Stack%20%E2%80%A2%20AI%20%2F%20Agents%20%E2%80%A2%20Graphics%20%E2%80%A2%20AWS&descSize=15&descAlignY=63&descColor=8b949e&animation=fadeIn&fontAlign=50" width="100%" />
+
 <div align="center">
 
-<!-- Animated Header with Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=1000&color=888888&center=true&vMultiline=false&width=500&lines=building+intelligent+systems+%F0%9F%A4%96;generative+%26+agentic+AI+%E2%9C%A6;full+stack+%E2%80%A2+AWS+%E2%80%A2+graphics+%E2%80%A2+flutter" alt="Typing SVG" />
-
 <br/>
 
-# anany
+<!-- Animated role typing — visible GitHub blue, medium weight -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=640&height=40&lines=Full+Stack+AI+Developer;Generative+%26+Agentic+AI+Systems;AWS+AgentCore+%26+Bedrock+Architect;Ray+Tracer+%7C+Graphics+Programmer;Next.js+%7C+Flutter+%7C+GSAP+%7C+C%2B%2B" alt="roles" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=FFFFFF&center=true&width=600&lines=Full+Stack+AI+Developer;Generative+%26+Agentic+AI;AWS+AgentCore+Architect;Ray+Tracer+%7C+Graphics+Dev" alt="Title Typing SVG" />
+<br/><br/>
+
+```ts
+const anany = {
+  role     : "Full Stack AI Developer",
+  building : ["agentic pipelines", "generative AI systems", "ray tracers"],
+  stack    : ["AWS AgentCore", "Bedrock", "Strands", "Next.js", "C++"],
+  currently: "shipping multi-agent systems on AWS",
+  contact  : "open to collabs & interesting problems",
+};
+```
 
 <br/>
-
-<!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
 
-<br/>
+---
 
-<!-- About section - clean card style -->
+## 🛠 &nbsp; Tech Stack
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  Hey, I'm Anany  👋                                          ║
-║                                                              ║
-║  I build intelligent, agentic systems end-to-end —           ║
-║  from generative AI pipelines to pixel-perfect UIs.          ║
-║  When I'm not shipping prod, I'm tracing rays in C++         ║
-║  or animating interfaces with GSAP.                          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="100px">
+
+**Languages**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,rust&theme=dark&perline=6" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Frontend**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=6" />
+&nbsp;<img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02" height="20"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Backend**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark&perline=6" />
+&nbsp;<img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/WebRTC-0d1117?style=flat-square&logo=webrtc&logoColor=white" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/REST-0d1117?style=flat-square&logo=fastapi&logoColor=009688" height="20"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Databases**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma&theme=dark&perline=6" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**AWS & AI**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+&nbsp;<img src="https://img.shields.io/badge/Bedrock-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/AgentCore-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/Strands-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/Lambda-0d1117?style=flat-square&logo=awslambda&logoColor=FF9900" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/S3-0d1117?style=flat-square&logo=amazons3&logoColor=569A31" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white" height="20"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Tools**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman&theme=dark&perline=6" />
+&nbsp;<img src="https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=CB3837" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=2EAD33" height="20"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Systems**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=opengl&theme=dark" />
+&nbsp;<img src="https://img.shields.io/badge/Ray%20Tracing-0d1117?style=flat-square&logo=nvidia&logoColor=76B900" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/OAuth-0d1117?style=flat-square&logo=auth0&logoColor=EB5424" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/Multithreading-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/RAII-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" height="20"/>
+&nbsp;<img src="https://img.shields.io/badge/Google%20Calendar%20API-0d1117?style=flat-square&logo=googlecalendar&logoColor=4285F4" height="20"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -40,84 +143,73 @@
 
 ## 🧠 &nbsp; What I Build
 
-<table>
-<tr>
-<td width="50%">
-
-**🤖 AI & Agents**
-- Generative AI pipelines (RAG, fine-tuning, evals)
-- Agentic workflows with tool use & memory
-- AWS AgentCore architecture & deployment
-- LLM orchestration at scale
-
-</td>
-<td width="50%">
-
-**⚡ Full Stack & Frontend**
-- Next.js apps with server components
-- Flutter cross-platform mobile
-- GSAP-powered animations & WebGL
-- REST / GraphQL / real-time systems
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**☁️ AWS Infra**
-- AgentCore service architecture
-- Lambda · Bedrock · CDK · SageMaker
-- Serverless-first, scalable by design
-- CI/CD pipelines & IaC
-
-</td>
-<td width="50%">
-
-**🎮 Graphics**
-- Ray tracer built from scratch in C++
-- BVH acceleration structures
-- Physically-based rendering (PBR)
-- Real-time graphics concepts
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 🛠 &nbsp; Tech Stack
-
 <div align="center">
 
-<!-- AI/ML Row -->
-**AI & Cloud**
+<table>
+<tr>
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Bedrock](https://img.shields.io/badge/AWS_Bedrock-000000?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
-
+<td align="center" width="230px">
 <br/>
+<img src="https://img.shields.io/badge/🤖-AI%20%26%20Agents-161b22?style=for-the-badge&labelColor=161b22&color=1f6feb" />
+<br/><br/>
 
-**Frontend & Mobile**
+```
+RAG pipelines
+Agentic workflows
+Tool use & memory
+LLM orchestration
+AWS AgentCore
+```
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B)
-![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=88CE02)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+</td>
 
+<td align="center" width="230px">
 <br/>
+<img src="https://img.shields.io/badge/⚡-Full%20Stack-161b22?style=for-the-badge&labelColor=161b22&color=238636" />
+<br/><br/>
 
-**Systems & Graphics**
+```
+Next.js · React
+Flutter mobile
+GSAP animations
+REST · WebRTC
+Socket.io
+```
 
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
-![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=flat-square&logo=opengl&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=0175C2)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+</td>
+
+<td align="center" width="230px">
+<br/>
+<img src="https://img.shields.io/badge/☁️-AWS%20Infra-161b22?style=for-the-badge&labelColor=161b22&color=9e6a03" />
+<br/><br/>
+
+```
+AgentCore · Bedrock
+Strands · Lambda
+S3 · CDK
+Serverless first
+MCP architecture
+```
+
+</td>
+
+<td align="center" width="230px">
+<br/>
+<img src="https://img.shields.io/badge/🎮-Graphics-161b22?style=for-the-badge&labelColor=161b22&color=8957e5" />
+<br/><br/>
+
+```
+Ray tracer in C++
+BVH acceleration
+PBR rendering
+OpenGL · WebGL
+Linear algebra
+```
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -129,13 +221,13 @@
 
 <div align="center">
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=ananykoranne&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&count_private=true" />
+<img height="165px" src="https://github-readme-stats-five-livid-59.vercel.app/api?username=AnanyKoranne&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github&count_private=true" />
 &nbsp;&nbsp;
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananykoranne&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8" />
+<img height="165px" src="https://github-readme-stats-five-livid-59.vercel.app/api/top-langs/?username=AnanyKoranne&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananykoranne&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=444444" />
+<img src="https://streak-stats.demolab.com?user=AnanyKoranne&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58" />
 
 </div>
 
@@ -147,11 +239,10 @@
 
 <div align="center">
 
-<!-- Snake animation eating contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananykoranne/ananykoranne/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananykoranne/ananykoranne/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ananykoranne/ananykoranne/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnanyKoranne/AnanyKoranne/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnanyKoranne/AnanyKoranne/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnanyKoranne/AnanyKoranne/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -164,7 +255,7 @@
 
 <div align="center">
 
-[![Anany's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananykoranne&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true)](https://github.com/ananykoranne)
+[![Anany's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnanyKoranne&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a5f&hide_border=true)](https://github.com/AnanyKoranne)
 
 </div>
 
@@ -191,22 +282,10 @@ const currentlyLearning = {
 
 ---
 
-## 🔗 &nbsp; Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ananykoranne)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ananykoranne)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ananykoranne.dev)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anany@example.com)
+<img src="https://komarev.com/ghpvc/?username=AnanyKoranne&style=flat-square&color=1f6feb&label=profile+views" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ananykoranne&style=flat-square&color=000000&label=profile+views" />
-
-<br/><br/>
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003366,65:0a1628,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
